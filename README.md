@@ -1,5 +1,5 @@
 # Media-advertising-performance-optimization-November-2023--April-2024-
-This media ads optimization project to address inefficient performance and increased cost across platforms through a media campaign. 
+This media ads optimization project aims at addressing inefficient performance and increased cost across platforms through a media campaign. 
 Problem Statement
 Clay Art communication is a media advertising company in Nigeria that focuses on creating campaigns that add value to people's lives and resonate with consumer. The marketing operation came up with media ads optimization project to address inefficient performance and increased cost across platforms through a media campaign. The project is geared towards investigating the right platform that will generate long-term profitability and competitive positioning in the digital marketplace. 
 The project focuses on important key performance indicators (KPIs) such as Impression, Clicks, Conversion, Revenue, Cost and profit across platforms. 
