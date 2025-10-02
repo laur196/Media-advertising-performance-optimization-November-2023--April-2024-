@@ -11,7 +11,7 @@ I used my skills in data manipulation and visualization to uncover key trends an
 ![image](Media advertising performance optimization 1.JPG)
 ![image](Media advertising performance optimization.JPG)
  
-<a href."Media advertising performance optimization.pdf">Download the full report here</a>
+<a href="Media advertising performance optimization.pdf">Download the full report here</a>
 
 ##Sales Performance Gap Analysis and Discount Strategy Optimization
 *….by examining how product performed regionally and the influence discount had on each product.*
@@ -19,7 +19,7 @@ I used my skills in data manipulation and visualization to uncover key trends an
 ![image](Sales Performance Gap Analysis and Discount Strategy Optimization.JPG)
 ![image](Sales Performance Gap Analysis and Discount Strategy Optimization II.JPG)
 
-Sales Performance Gap Analysis and Discount Strategy Optimization.pdf
+<a href="Sales Performance Gap Analysis and Discount Strategy Optimization.pdf">Download the full report here</a>
 
 ##Investment Efficiency and Market Dynamics in the Global Unicorn Community: An Analysis of ROI Patterns and Industry Performance (2012-2022)
 *…investigating how investment is efficient across sectors and what geographic region play a vital role in unicorn community.*
@@ -27,7 +27,7 @@ Sales Performance Gap Analysis and Discount Strategy Optimization.pdf
 ![image](An Analysis of ROI Patterns and Industry Performance (2012-2022).JPG)
 ![image](An Analysis of ROI Patterns and Industry Performance (2012-2022) II.JPG)
 
-Investment Efficiency and Market Dynamics in the Global Unicorn Community.pdf
+<a href="Investment Efficiency and Market Dynamics in the Global Unicorn Community.pdf">Download the full report here</a>
 
 CONTACT
 Email                            aganachiamaka2018@gmail.com
