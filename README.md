@@ -16,7 +16,7 @@ Media advertising performance optimization.pdf
 ##Sales Performance Gap Analysis and Discount Strategy Optimization
 *….by examining how product performed regionally and the influence discount had on each product.*
 
-![image](Sales Performance Gap Analysis and Discount Strategy Optimization.jpeg)
+![image](Sales Performance Gap Analysis and Discount Strategy Optimization.JPG)
 ![image](Sales Performance Gap Analysis and Discount Strategy Optimization II.jpeg)
 
 Sales Performance Gap Analysis and Discount Strategy Optimization.pdf
