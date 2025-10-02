@@ -28,8 +28,8 @@ Sales Performance Gap Analysis and Discount Strategy Optimization.pdf
 Investment Efficiency and Market Dynamics in the Global Unicorn Community.pdf
 
 CONTACT
-Email                             aganachiamaka2018@gmail.com
-Phone Number                      +234 7065242164
+Email                            aganachiamaka2018@gmail.com
+Phone Number                     +234 7065242164
 Location                         Lagos, Nigeria.
 CV Link                         Resume - Data Analyst Original (1).pdf
 
