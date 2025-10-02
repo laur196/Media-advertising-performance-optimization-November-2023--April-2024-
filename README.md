@@ -9,7 +9,7 @@ I used my skills in data manipulation and visualization to uncover key trends an
 * A media ads optimization project to address inefficient performance and increased cost across platforms through a media campaign.*
 
 ![image](Media advertising performance optimization 1.JPG)
-![image]()
+![image](Media advertising performance optimization.JPG)
  
 Media advertising performance optimization.pdf
 
