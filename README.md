@@ -25,7 +25,7 @@ Sales Performance Gap Analysis and Discount Strategy Optimization.pdf
 *…investigating how investment is efficient across sectors and what geographic region play a vital role in unicorn community.*
 
 ![image](An Analysis of ROI Patterns and Industry Performance (2012-2022).JPG)
-![image](An Analysis of ROI Patterns and Industry Performance (2012-2022)II.jpeg)
+![image](An Analysis of ROI Patterns and Industry Performance (2012-2022) II.JPG)
 
 Investment Efficiency and Market Dynamics in the Global Unicorn Community.pdf
 
