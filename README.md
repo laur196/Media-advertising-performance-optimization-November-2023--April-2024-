@@ -33,8 +33,7 @@ CONTACT
 Email                            aganachiamaka2018@gmail.com
 Phone Number                     +234 7065242164
 Location                         Lagos, Nigeria.
-CV Link                         Resume - Data Analyst Original (1).pdf
-
+CV Link                         <a href="Resume - Data Analyst Original (1).pdf">Download the full report here</a>
 
 
 
