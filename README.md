@@ -29,7 +29,7 @@ I used my skills in data manipulation and visualization to uncover key trends an
 
 <a href="Investment Efficiency and Market Dynamics in the Global Unicorn Community.pdf">Download the full report here</a>
 
-CONTACT
+CONTACT DETAILS
 Email                            aganachiamaka2018@gmail.com
 Phone Number                     +234 7065242164
 Location                         Lagos, Nigeria.
