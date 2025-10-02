@@ -11,7 +11,7 @@ I used my skills in data manipulation and visualization to uncover key trends an
 ![image](Media advertising performance optimization 1.JPG)
 ![image](Media advertising performance optimization.JPG)
  
-Media advertising performance optimization.pdf
+<a href,"Media advertising performance optimization.pdf"Download the full report here</a>
 
 ##Sales Performance Gap Analysis and Discount Strategy Optimization
 *….by examining how product performed regionally and the influence discount had on each product.*
