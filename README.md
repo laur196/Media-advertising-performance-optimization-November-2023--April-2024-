@@ -3,7 +3,7 @@ As a data analyst, I specialize in transforming complex data into clear, actiona
 My work is focused on creating insightful analysis and dashboards that not only answer critical questions but also empower stakeholders to make informed decisions.
 I used my skills in data manipulation and visualization to uncover key trends and patterns, providing a clear, evidence-based perspective on the subject matter.
 
-##MY PROJECT
+# MY PROJECT
 
 ## Media advertising performance optimization (November 2023- April 2024)
 * A media ads optimization project to address inefficient performance and increased cost across platforms through a media campaign.*
